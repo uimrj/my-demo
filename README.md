@@ -1,4 +1,4 @@
 # my-demo
 This is my first Git Repository.
 <br>
-Author - Rishabh jain
+Author - Rishabh Jain & Deepanshu Sahu
